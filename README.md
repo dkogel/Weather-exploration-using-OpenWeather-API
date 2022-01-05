@@ -6,7 +6,7 @@ Here's an example scatterploty generated from the data collected:
 ![example_df](images/sample_screengrab.PNG)
 
 
-Please Note,the google maps API calls give an error now because the google API key is no longer valid.  
+*Please Note, the google maps API calls give an error now because the google API key is no longer valid.*  
 
   ---  
   
