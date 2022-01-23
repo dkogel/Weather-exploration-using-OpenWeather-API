@@ -8,8 +8,11 @@ To view the results please follow the directions below:
 1. Clone this repo
 2. Open a Git Bash or Terminal window at the repo folder
 3. Type `jupyter notebook` and hit `enter`
-4. Open the `main.py` notebook 
-5. Select the `Cell` dropdown menu and then choose `Run All`
+4. Open the `Jupyter Notebooks` folder
+5. Open `VacationPy.ipynb` 
+6. Select the `Cell` dropdown menu and then choose `Run All`
+7. Next open `WeatherPy.ipynb`
+8. Select the `Cell` dropdown menu and then choose `Run All` 
 
 Example scatterplot generated from the data collected:
 
