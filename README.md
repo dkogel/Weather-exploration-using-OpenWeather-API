@@ -1,5 +1,5 @@
-# python-api-challenge
-The goal of this challenge was to explore how weather trends changed with changes in latitude. Using a jupyter notebook, a series of API calls were generated for realtime weather data in cities across the globe. That weather data was then aggregated, displayed in dataframes, displayed in scatter plots with linear regression analysis, and displayed on google maps widgets. These operations were accomplished using matplotlib, pandas, numpy, scipy, and google maps in 2 jupyter notebooks as well as the OpenWeatherMap API. 
+# Weather exploration using OpenWeather API
+The goal of this project was to explore how weather trends changed with changes in latitude. Using a jupyter notebook, a series of API calls were generated for realtime weather data in cities across the globe. That weather data was then aggregated, displayed in dataframes, displayed in scatter plots with linear regression analysis, and displayed on google maps widgets. These operations were accomplished using matplotlib, pandas, numpy, scipy, and google maps in 2 jupyter notebooks as well as the OpenWeatherMap API. 
 
 
 To view the results please follow the directions below: 
